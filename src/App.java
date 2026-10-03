@@ -1,7 +1,7 @@
 public class App {
     public static void main(String[] args) throws Exception {
         
-        String tekija = "Milo";
+         String tekija = "Milo";
 
         double luku1 = 5;
         double luku2 = 2;
