@@ -1,4 +1,4 @@
-public class App {
+public class TulostinHarjoitus {
     public static void main(String[] args) throws Exception {
         
         String tekija = "Milo";
