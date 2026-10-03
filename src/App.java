@@ -1,8 +1,10 @@
 public class App {
     public static void main(String[] args) throws Exception {
         
-         String tekija = "Milo";
+        String tekija = "Milo";
 
+
+        // Muuttujat ja laskutoimitukset
         double luku1 = 5;
         double luku2 = 2;
 
@@ -11,7 +13,7 @@ public class App {
         double erotus = luku1 - luku2;
         double jako = luku1 / luku2;
 
-        
+        // Tulostukset
         System.out.println("Hei olen tulostin-ohjelma");
         System.out.println("Ohjelman tekijä: " + tekija);
         System.out.println("luku1-muuttujan arvo on " + luku1);
